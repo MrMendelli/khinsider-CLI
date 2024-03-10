@@ -10,7 +10,7 @@ This is a simplistic CLI frontend that simplifies the downloading of whole album
 
 ## Use
 
-Download the [latest release](https://github.com/MrMendelli/khinsider.py-CLI/releases/latest) and extract to a desired location. It is not recommended to extract to a UAC-protected parent directory. Then Install Python 3, once khinsider.py and Python 3 are downloaded and installed, run the script and follow the menu.
+Download the [latest release](https://github.com/MrMendelli/khinsider.py-CLI/releases/latest) and extract to a desired location. It is not recommended to extract to a UAC-protected parent directory. Then Install Python 3, once khinsider.py and Python 3 are downloaded and installed, run the script and run the setup command before downloading or searching.
 
 ## Issues
 _(No known issues at time of commit.)_
