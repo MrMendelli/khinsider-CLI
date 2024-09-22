@@ -1,4 +1,4 @@
-# yt-dlp CLI
+# khinsider CLI
 
 ## Disclaimer
 
@@ -10,7 +10,7 @@ This is a simplistic CLI frontend that simplifies the downloading of whole album
 
 ## Use
 
-Download the [latest release](https://github.com/MrMendelli/khinsider.py-CLI/releases/latest) and extract to a desired location. It is not recommended to extract to a UAC-protected parent directory. Then Install Python 3, once khinsider.py and Python 3 are downloaded and installed, run the script and run the setup command before downloading or searching.
+Download the [latest release](https://github.com/MrMendelli/khinsider-CLI/releases/latest) and extract to a desired location. It is not recommended to extract to a UAC-protected parent directory. Then Install Python 3, once khinsider.py and Python 3 are downloaded and installed, run the script and run the setup command before downloading or searching.
 
 ## Issues
 _(No known issues at time of commit.)_
@@ -19,5 +19,4 @@ _(No known issues at time of commit.)_
 
 Feel free to submit a PR, but please comment code when doing so. This is for clarity as batch has a range of use syntax and limitations that are too vast to account for so some things may seem unclear on first glance. 
 
-<sup>Reading this in Notepad? Try [Typora](https://typora.io/).</sup>
 
